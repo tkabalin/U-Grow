@@ -1,9 +1,7 @@
 ![UGrow_Logo_Standard](https://github.com/user-attachments/assets/aa18aba1-2937-497f-a61a-c856af7f2e91)
 # U-Grow
 
-**Thomas Kabalin**
-
-Grade 12 IT Practical Assessment Task (PAT)
+**Grade 12 IT Practical Assessment Task (PAT)**
 > NOTE: This program was my capstone project for high school IT. It is designed to be a proof of concept that showcases programming skills, rather than a functional online store. 
 
 
