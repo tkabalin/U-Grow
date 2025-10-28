@@ -37,8 +37,8 @@ Follow these steps to run U-Grow on your computer:
    - Make sure the program folder contains:
      - `UGrow.exe` (the main program file)
      - `UGrow_Database.mdb` (the database)
-     - `Product_Images` folder with all product `.jpg` images
-     - `Receipt.txt` and `Seller_Logins.txt` if using preloaded data
+     -  All of the required images
+     - `Receipt.txt` and `Seller_Logins.txt`
    - Confirm the system date format is set to `dd/mm/yyyy`.
    - Recommended screen resolution: 1080p (works down to 720p).
 
