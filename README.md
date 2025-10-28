@@ -102,3 +102,8 @@
 - `Decorative_Images\Microgreens_Header.jpg`
 - `Decorative_Images\UGrow_Logo_Standard.png`
 - `Decorative_Images\Forest.jpeg`
+
+
+## License
+
+This project is protected by copyright. See [LICENSE.md](LICENSE.md) for full details.
